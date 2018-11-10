@@ -8,4 +8,4 @@ This is a VR simulation of the competition
 
 [Programmed in C#]
 
-[Art used are thirdParty ]
+[Art used are by thirdParty ]
