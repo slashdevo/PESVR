@@ -1,0 +1,332 @@
+# OBJ Material Export by Luxion KeyShot
+
+newmtl Light.4
+Kd 0.5 0.5 0.5
+
+newmtl Light.3
+Kd 0.5 0.5 0.5
+
+newmtl Light.2
+Kd 0.5 0.5 0.5
+
+newmtl Light.1
+Kd 0.5 0.5 0.5
+
+newmtl Light
+Kd 0.5 0.5 0.5
+
+newmtl 96fc4387_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 96fc4387_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 96fc4387_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 975bdc35_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 96fc4387_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 96fc4387_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 96fc4387_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl daf7344c_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl c3577f39_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl c3577f39_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl ccd71703_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl ec5d454d_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 975bdc35_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 975bdc35_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl Display color
+Kd 0.65 0.65 0.65
+Ks 0 0 0
+
+newmtl Display color
+Kd 0.65 0.65 0.65
+Ks 0 0 0
+
+newmtl Display color
+Kd 0.65 0.65 0.65
+Ks 0 0 0
+
+newmtl Display color
+Kd 0.65 0.65 0.65
+Ks 0 0 0
+
+newmtl Display color
+Kd 0.65 0.65 0.65
+Ks 0 0 0
+
+newmtl Display color
+Kd 0.65 0.65 0.65
+Ks 0 0 0
+
+newmtl Display color
+Kd 0.65 0.65 0.65
+Ks 0 0 0
+
+newmtl Display color
+Kd 0.65 0.65 0.65
+Ks 0 0 0
+
+newmtl 65d68016_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 5c6369c0_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 29a90197_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl ebe54196_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 8ae604cb_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl f45dd839_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl a5ca7416_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 91f0f5e8_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 5d3dc7c2_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl ecf06ed2_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 50f2e681_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 56f16b5e_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 1dd1fef9_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 770f1403_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl a9341862_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 62723a3e_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl ff011821_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl a5ca7416_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl a5ca7416_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl e2cf9e92_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 26be8701_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl a5ca7416_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl a5ca7416_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl cc4e65b8_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl cc4e65b8_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 888b010e_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 68f67fad_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl b9352a1e_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl ae3b184f_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 480f02e6_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 1719e41a_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl d4c6794b_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 3c0eae84_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl a70b6cea_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 770f1403_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 65079cbb_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 4abb53e1_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 253dfe6b_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl ceaf86e3_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 8ae604cb_dds #1
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 734f5188_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 734f5188_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 61e6e318_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl f381e745_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 73e75b7c_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 3ea62cb3_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl ff011821_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 61e6e318_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 61e6e318_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 28ac6d21_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 28ac6d21_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 28ac6d21_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 1dd6a1a5_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 1dd6a1a5_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl 1dd6a1a5_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl f381e745_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+
+newmtl f381e745_dds
+Kd 0.8 0.8 0.8
+Ks 0 0 0
